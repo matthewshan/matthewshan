@@ -31,19 +31,5 @@
 **Currently Learning**
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
-
-### 🏠 On Going Home Projects
-
-🏠 **[k3s-homelab](https://github.com/matthewshan/k3s-homelab)**  
-My k8s manifest files running on a mini pc at home
-
-🎮 **[minecraft-utils](https://github.com/matthewshan/minecraft-utils)**  
-Tools and utilities my Minecraft server. Currently holds a NextJS Application that talks to a .NET API which reports online players
-
-✉️ **[html-emailer](https://github.com/matthewshan/html-emailer)**  
-A web page project for sending HTML-encoded emails, built to help a friend easily send styled emails. This was also an experiment with prompt engineering. Built mostly off of Copilot/Claude Sonnet 4
-
----
 
 Find me on [LinkedIn](https://www.linkedin.com/in/matthewshan99/)
