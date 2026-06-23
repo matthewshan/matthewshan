@@ -22,6 +22,4 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-181717?style=flat&logo=github&logoColor=white)
 ![Azure DevOps YAML Pipelines](https://img.shields.io/badge/Azure%20DevOps%20YAML%20Pipelines-0078D7?style=flat&logo=azure-devops&logoColor=white)
 
-**Currently Learning**
-
 Find me on [LinkedIn](https://www.linkedin.com/in/matthewshan99/) | [Website](https://www.mattshan.dev)
